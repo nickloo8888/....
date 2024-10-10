@@ -1,2 +1,1 @@
-2 Under "Public profile", in the "Bio" field, type the content that you want displayed on your profile. The bio field is limited to 160 characters. 🔥(YOU THINK THE EARTH IS YOUR FATHER BUIDING)🖕
-Tip: When you @mention an organization, only those that you're a member of will autocomplete. You can still @mention organizations that you're not a member of, like a previous employer, but the organization name won't autocomplete for you 
+
